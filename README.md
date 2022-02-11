@@ -35,5 +35,27 @@ SA2
 
 https://makecode.com/_CVHHyE2otfCK
 
+student generate the shareable link:
+1. Ontheleftsidetopcornerclickontheshareoption.Youwillseethefollowing screen.
+Giveanametotheprojectandclickonpublish.Youwillseethefollowingscreen.
+ClickonCtrl+Candpaste(Ctrl+V)itinthechat.
+-----------------
+teacher
+Steps to Execute the code and check:
+Step 1 : Copy the url shared by the student.
+Step 2: Click on C and open the code builder.
+Step 3: Click on the Microsoft Make code Editor.
+Step 4: On the right side of my projects you see the import option,
+Step 5: When you click, you see the following screen. Click on the import URl button.
+Step 6: Paste the URL here and click on Go ahead!.
+Step 7: Code opens on your screen, Click on the play button.
+Step 8: Press the T key on your keyboard to open the chat command prompt.
+**
+
+
+
+
+
+
 
 
